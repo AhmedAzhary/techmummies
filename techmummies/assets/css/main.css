@@ -45,9 +45,9 @@
 }
 
 .dark-background {
-  --background-color: #37517e;
+  --background-color: #1C2431;
   --default-color: #ffffff;
-  --heading-color: #ffffff;
+  --heading-color: #1C2431;
   --surface-color: #4668a2;
   --contrast-color: #ffffff;
 }
