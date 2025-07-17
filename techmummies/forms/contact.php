@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] !== "POST") {
-  http_response_code(405);
+  http_response_code(200);
   exit("Method Not Allowed");
 }
 
