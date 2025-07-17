@@ -1,7 +1,7 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] !== "POST") {
-  http_response_code(405);
-  exit("Method Not Allowed");
+  http_response_code(200);
+  exit("Method Not Allowed test");
 }
 
 $to = "info@techmummies.com"; 
